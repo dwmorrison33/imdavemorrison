@@ -22,7 +22,7 @@ header .navbar {
 }
 
 header .navbar-default {
-  background-color: yellow;
+  background-color: #6D550D;
   border: none;
   max-height: 90px;
 }
